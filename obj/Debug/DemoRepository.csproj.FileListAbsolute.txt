@@ -1,0 +1,7 @@
+C:\Users\igor_\Documents\Программы C#\DemoRepository\bin\Debug\DemoRepository.exe.config
+C:\Users\igor_\Documents\Программы C#\DemoRepository\bin\Debug\DemoRepository.exe
+C:\Users\igor_\Documents\Программы C#\DemoRepository\bin\Debug\DemoRepository.pdb
+C:\Users\igor_\Documents\Программы C#\DemoRepository\obj\Debug\DemoRepository.csproj.AssemblyReference.cache
+C:\Users\igor_\Documents\Программы C#\DemoRepository\obj\Debug\DemoRepository.csproj.CoreCompileInputs.cache
+C:\Users\igor_\Documents\Программы C#\DemoRepository\obj\Debug\DemoRepository.exe
+C:\Users\igor_\Documents\Программы C#\DemoRepository\obj\Debug\DemoRepository.pdb
